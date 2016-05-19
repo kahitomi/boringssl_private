@@ -1,5 +1,7 @@
 # BoringSSL
 
+As boringssl is on googlesource which coder in China can not visit. This source is for me to build tensorflow serving in China
+
 BoringSSL is a fork of OpenSSL that is designed to meet Google's needs.
 
 Although BoringSSL is an open source project, it is not intended for general
